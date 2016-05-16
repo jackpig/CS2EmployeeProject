@@ -44,6 +44,7 @@ int main() {
 	 TeamLeader *myTeamLeaders[100];*/
 
 	do {
+		cout << "It is a change\n";
 		cout << "=========================================\n";
 		cout << "Welcome to the Employee Pay System\n";
 		cout << "=========================================\n";
